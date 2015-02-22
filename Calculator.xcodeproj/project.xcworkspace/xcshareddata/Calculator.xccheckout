@@ -10,22 +10,26 @@
 	<string>Calculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>493AEE8FF1421547AA8B4231ED3B4126D5C09667</key>
+		<string>https://github.com/shanshan33/Calculator.git</string>
 		<key>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</key>
 		<string>https://github.com/shanshan33/My-Little-Apps.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Swift/Calculator/Calculator.xcodeproj</string>
+	<string>Calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>493AEE8FF1421547AA8B4231ED3B4126D5C09667</key>
+		<string>../..</string>
 		<key>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/shanshan33/My-Little-Apps.git</string>
+	<string>https://github.com/shanshan33/Calculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</string>
+	<string>493AEE8FF1421547AA8B4231ED3B4126D5C09667</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>My%20Little%20Apps</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>493AEE8FF1421547AA8B4231ED3B4126D5C09667</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator</string>
 		</dict>
 	</array>
 </dict>

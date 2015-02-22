@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var displayLabel: UILabel!
+    @IBOutlet weak var displayLabel: UILabel! // optional == nil automatically
     
     var isInTheMiddleOfTypingANumber : Bool = false
     
