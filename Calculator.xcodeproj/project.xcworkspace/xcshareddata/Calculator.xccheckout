@@ -22,7 +22,7 @@
 		<key>493AEE8FF1421547AA8B4231ED3B4126D5C09667</key>
 		<string>../..</string>
 		<key>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/shanshan33/Calculator.git</string>
@@ -38,7 +38,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C5DEFFA96E2A3B30ED120A806A1C7C062AD1E15D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>

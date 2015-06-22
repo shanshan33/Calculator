@@ -79,7 +79,6 @@
 			children = (
 				C14531BB1A90FF1D0000B1EC /* Main.storyboard */,
 				C14531D71A90FF4C0000B1EC /* ViewControllers */,
-				C14531C01A90FF1D0000B1EC /* LaunchScreen.xib */,
 				C14531B51A90FF1D0000B1EC /* Supporting Files */,
 			);
 			path = Calculator;
@@ -89,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				C14531BE1A90FF1D0000B1EC /* Images.xcassets */,
+				C14531C01A90FF1D0000B1EC /* LaunchScreen.xib */,
 				C14531B71A90FF1D0000B1EC /* AppDelegate.swift */,
 				C14531B61A90FF1D0000B1EC /* Info.plist */,
 			);
@@ -415,6 +415,7 @@
 				C14531D31A90FF1D0000B1EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C14531D41A90FF1D0000B1EC /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				C14531D61A90FF1D0000B1EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
